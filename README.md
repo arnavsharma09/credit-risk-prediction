@@ -2,7 +2,7 @@
 
 A machine learning project that predicts whether a loan applicant is likely to default using real-world financial data. Features a live interactive web dashboard built with Streamlit that uses SHAP to explain the model's decisions.
 
-Live App: https://arnav-credit-risk.streamlit.app/
+Live App: https://arnavsharma-credit-risk.streamlit.app/
 
 ---
 
